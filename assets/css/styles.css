@@ -263,7 +263,7 @@ img {
     font-weight: var(--font-semi);
     padding: .85rem 2.1rem;
     outline: var(--first-color);
-    box-shadow: 32px 32px 64px #b1b1b1, -32px -32px 64px #ffffff;
+    box-shadow: 10px 10px 32px #b1b1b1, -10px -10px 32px #ffffff;
 }
 .button code {
     background: linear-gradient(145deg, #f0f0f0, var( --second-color));
