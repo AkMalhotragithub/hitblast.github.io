@@ -266,7 +266,7 @@ img {
     box-shadow: 32px 32px 64px #b1b1b1, -32px -32px 64px #ffffff;
 }
 .button code {
-    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    background: linear-gradient(145deg, #f0f0f0, var( --second-color));
     color: var(--second-color);
     border-radius: .5rem;
     padding: 5px 8px;
