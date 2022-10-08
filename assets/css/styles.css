@@ -266,7 +266,7 @@ img {
     box-shadow: 10px 10px 32px #b1b1b1, -10px -10px 32px #ffffff;
 }
 .button code {
-    background: linear-gradient(145deg, #f0f0f0, var( --second-color));
+    background: linear-gradient(145deg, #f0f0f0, #6d7aa2);
     color: var(--second-color);
     border-radius: .5rem;
     padding: 5px 8px;
@@ -325,29 +325,6 @@ img {
 .skills__names {
     display: flex;
     align-items: center;
-}
-.skills__bar {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    background-color: var(--first-color);
-    height: .25rem;
-    z-index: var(--z-back);
-}
-.skills__python {
-    width: 100%;
-}
-.skills__swift {
-    width: 65%;
-}
-.skills__js {
-    width: 89%;
-}
-.skills__web {
-    width: 98%;
-}
-.skills__java {
-    width: 20%
 }
 .skills__img {
     scale: 1.07;
